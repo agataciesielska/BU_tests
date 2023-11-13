@@ -5,7 +5,9 @@
 git clone [https://github.com/agataciesielska/BU_tests.git or git@github.com:agataciesielska/BU_tests.git]
 cd BU_tests
 npm install
-npx cypress open
+'npx cypress open' for headed test
+or
+'npx cypress run' for headless test
 ```
 
 #### Detected bugs:

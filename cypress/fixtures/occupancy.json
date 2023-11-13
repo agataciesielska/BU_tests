@@ -1,0 +1,34 @@
+[
+  {
+    "premiumRooms": "3",
+    "economyRooms": "3",
+    "premiumOccupancy": "3",
+    "economyOccupancy": "3",
+    "premiumRevenue": "738",
+    "economyRevenue": "167"
+  },
+  {
+    "premiumRooms": 7,
+    "economyRooms": 5,
+    "premiumOccupancy": 6,
+    "economyOccupancy": 4,
+    "premiumRevenue": "1054",
+    "economyRevenue": "189"
+  },
+  {
+    "premiumRooms": 2,
+    "economyRooms": 7,
+    "premiumOccupancy": 2,
+    "economyOccupancy": 4,
+    "premiumRevenue": "583",
+    "economyRevenue": "189"
+  },
+  {
+    "premiumRooms": 7,
+    "economyRooms": 1,
+    "premiumOccupancy": 7,
+    "economyOccupancy": 1,
+    "premiumRevenue": "1153",
+    "economyRevenue": "45"
+  }
+]
